@@ -1,0 +1,45 @@
+body{
+	margin: 7% auto;
+	width: 80%;
+	max-width: 700%;
+	background: url(img/5.jpg) center no-repeat fixed;
+	line-height: 1.4;
+	color: white;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	}
+
+
+.Y1,.Y2,.Y3,.Y4,.Y5,.Y6,.Y7,.Y8{
+	margin: 10px auto;
+	width: 520px;
+	padding: 5px;
+    background: rgb(76 123 120 / 30%);
+    text-shadow: 0.07em 0.07em #000000;
+	border-style: ridge;
+	font-size: 23px;
+	font-family: 'Black Ops One', cursive;
+	text-align: center;
+	line-height: 2;
+}
+
+a:link{
+text-decoration:none;
+color:white;
+}
+
+a:visited{
+text-decoration:none;
+color:white;
+}
+
+a:hover{
+text-decoration:none;
+color:black;
+}
+
+.b1{
+	text-align: center;
+	line-height: 5;
+}

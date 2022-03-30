@@ -1,0 +1,127 @@
+body{
+	
+	margin: auto;
+	width: 80%;
+	max-width: 800%;
+	background: url(img/k.jpg) center center no-repeat fixed;
+	font-family: sans-serif;
+	color: white;
+  	-webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	text-align: justify;
+  	font-size: 21px;
+  	text-shadow: 0.06em 0.08em #000000;
+  	margin: 5px 8% 3em;
+
+	}
+
+main{
+	background:#0000004b;
+	padding: 2px 15px;
+	margin-top: 10px;
+	border-radius: 10px;
+	margin:70px 50px;
+	line-height: 1.5;
+	}
+
+
+.logo, .frase, .historia, .com{
+	text-align: center;
+	}
+
+.filmes{
+	margin: 30px 0px;
+	text-align: center;
+	width: 100%;
+	}
+
+.filmes table {
+	background: #ffeb0051;
+	border-radius: 10px;
+	padding: 15px 20px;
+	margin: 0px auto;
+	color: white;
+	text-shadow: 0.09em 0.1em black;
+	}
+
+.historia{
+	font-family: 'Coda', cursive;
+	font-size: 20px;
+	text-align: justify;
+	text-shadow: 0.09em 0.10em #000000;
+	padding: 7px 30px;
+	line-height: 1.5;
+	color: white;
+	}
+
+.frase{
+	font-family: 'Mali', cursive;
+	font-size: 18px;
+	color: white;
+	text-shadow: 0.1em 0.12em #000000;
+	}
+
+.logo{
+	padding: 40px 1% 0.01px;
+
+	}
+
+.ordem{
+	font-family: 'Press Start 2P', cursive;
+	font-size: 20px;
+	color: yellow;
+	text-shadow: 0.15em 0.2em black;
+	text-align: center;
+	line-height: 1.5;
+
+	}
+
+.com{
+	font-family: 'Mulish', sans-serif;
+	font-size: 25px;
+	color: white;
+	text-align: justify;
+	text-shadow: 0.1em 0.09em #000000;
+
+	}
+
+.FST{
+	font-family: 'Coda', cursive;
+	font-size: 20px;
+	padding: 2px 1em 20px;
+	text-shadow: 0 0 20px black, 0 0 20px black;
+
+
+
+	}
+.com, .FST{
+	line-height: 1.5;
+	font-style: bold;
+	}
+
+.F1,.F2,.F3,.F4,.F5,.F6,.F7,.F8,.F9,.F10,.F11{
+	font-family: 'Candal', sans-serif;
+	color: orange;
+	text-shadow: 0.06em 0.07em #000000;
+	}
+
+.c1{
+	background: url(img/w.gif);
+	padding: 2px 35px;
+	margin:70px 50px;
+	line-height: 1.5;
+	opacity : 0.65;
+	border-radius: 10px;
+
+	}
+	
+.b1{
+	margin: 10px auto;
+	width: 520px;
+	padding: 5px;
+	font-size: 50px;
+	font-family: 'Black Ops One', cursive;
+	text-align: center;
+}
